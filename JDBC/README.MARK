@@ -1,0 +1,6 @@
+java -cp ${CLASSPATH}:./mysql-connector-java-5.1.44-bin.jar JdbcTest
+
+Make sure you have started MySQL from the control pannel in System Preferences.
+
+!!!!!!! PASSWORDS ARE IN DASHLANE !!!!!!!
+
